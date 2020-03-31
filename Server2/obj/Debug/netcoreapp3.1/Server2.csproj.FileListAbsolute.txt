@@ -1,0 +1,14 @@
+D:\Visual Sutdio 2019\RabbitmqExerciese\Server2\bin\Debug\netcoreapp3.1\Server2.exe
+D:\Visual Sutdio 2019\RabbitmqExerciese\Server2\obj\Debug\netcoreapp3.1\Server2.AssemblyInfoInputs.cache
+D:\Visual Sutdio 2019\RabbitmqExerciese\Server2\obj\Debug\netcoreapp3.1\Server2.AssemblyInfo.cs
+D:\Visual Sutdio 2019\RabbitmqExerciese\Server2\bin\Debug\netcoreapp3.1\Server2.deps.json
+D:\Visual Sutdio 2019\RabbitmqExerciese\Server2\bin\Debug\netcoreapp3.1\Server2.runtimeconfig.json
+D:\Visual Sutdio 2019\RabbitmqExerciese\Server2\bin\Debug\netcoreapp3.1\Server2.runtimeconfig.dev.json
+D:\Visual Sutdio 2019\RabbitmqExerciese\Server2\bin\Debug\netcoreapp3.1\Server2.dll
+D:\Visual Sutdio 2019\RabbitmqExerciese\Server2\bin\Debug\netcoreapp3.1\Server2.pdb
+D:\Visual Sutdio 2019\RabbitmqExerciese\Server2\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Visual Sutdio 2019\RabbitmqExerciese\Server2\obj\Debug\netcoreapp3.1\Server2.csprojAssemblyReference.cache
+D:\Visual Sutdio 2019\RabbitmqExerciese\Server2\obj\Debug\netcoreapp3.1\Server2.csproj.CopyComplete
+D:\Visual Sutdio 2019\RabbitmqExerciese\Server2\obj\Debug\netcoreapp3.1\Server2.dll
+D:\Visual Sutdio 2019\RabbitmqExerciese\Server2\obj\Debug\netcoreapp3.1\Server2.pdb
+D:\Visual Sutdio 2019\RabbitmqExerciese\Server2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
